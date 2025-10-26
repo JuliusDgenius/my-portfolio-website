@@ -14,7 +14,7 @@ export default function Skills() {
       { name: "Flask", level: "Intermediate", icon: <SiFlask /> },
       { name: "MongoDB", level: "Intermediate", icon: <SiMongodb /> },
       { name: "PostgreSQL", level: "Intermediate", icon: <SiPostgresql /> },
-      { name: "Redis", level: "Beginner", icon: <SiRedis /> },
+      { name: "Redis", level: "Intermediate", icon: <SiRedis /> },
       { name: "Docker", level: "Intermediate", icon: <SiDocker /> },
       { name: "Git & GitHub", level: "Advanced", icon: <SiGithub /> },
     ];

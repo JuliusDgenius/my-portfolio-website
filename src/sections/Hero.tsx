@@ -2,7 +2,7 @@ export default function Hero() {
     return (
       <section 
         id="home" 
-        className="min-h-screen flex flex-col justify-center items-center px-6 md:px-16 py-20 text-center">
+        className="bg-[#242424] min-h-screen flex flex-col justify-center items-center px-6 md:px-16 py-20 text-center">
         <h1 className="text-5xl md:text-6xl font-bold text-[var(--accent)] mb-6">
           Hi, I'm Julius 👋
         </h1>

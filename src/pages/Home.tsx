@@ -6,7 +6,7 @@ import CTA from "../sections/CTA";
 
 export default function Home() {
   return (
-    <div className="bg-[#0d1117] flex flex-col items-center w-full overflow-x-hidden">
+    <div className="flex flex-col items-center w-full overflow-x-hidden">
       <Hero />
       <About />
       <Skills />
